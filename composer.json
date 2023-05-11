@@ -1,0 +1,16 @@
+{
+    "name": "majh/server-container",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Majh\\ServerContainer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "majh",
+            "email": "majiahao@yiwei.com"
+        }
+    ],
+    "require": {}
+}
